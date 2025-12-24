@@ -39,6 +39,7 @@
 * **Book:** High Performance Browser Networking — Ilya Grigorik
 * **Tech Stack:** TypeScript, React, Next.js, Tailwind CSS
 * **Course:** MIT 6.824
+* **Project:** Build Your Own React
 
 ### Phase 9: Distributed Systems & Architecture
 * **Book:** Designing Data-Intensive Applications — Martin Kleppmann
@@ -51,4 +52,31 @@
 ### Phase 11: The Secret Weapon (WebAssembly)
 * **Goal:** Compile C++ functions to WASM to run in the browser.
 * **Resource:** "Emscripten" Documentation (C++ to WASM compiler).
+
+
+### CERTIFICATIONS
+* CompTIA Secure Infrastructure Specialist
+* Comptia Linux+
+* Comptia Pentest+
+* Comptia SecurityX
+* Hackthebox Certified Bug Bounty Hunter (Legacy)
+* TryHackMe SAL1
+* CCNA
+* CyberDefenders CCD
+* CEH Master
+* OSCP
+* OSCE3
+* Red Team OPS 1 & 2
+* CISSP
+
+### PROFESSIONAL CERTIFICATES
+* TryHackMe Blue Team, Red Team, Security Engineer Path Complete
+* HacktheBox Red Team Paths Complete
+* Udemy Mastering Linux: 70 Hours Course Certificate
+* IBM Mainframe Developer Professional Certificate
+* ADP AIRS® Entry-Level Recruiter Professional Certificate
+
+### CYBERSECURITY COURSES
+* ICS410: ICS/SCADA Security Essentials by SANS
+* Ransomware, Phishing, Malware Dev by Maldev Academy
 
