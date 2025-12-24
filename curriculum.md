@@ -1,5 +1,5 @@
-Harvard CS50x: Introduction to Computer Science
-Harvard CS50w: Web Programming with Python and JavaScript
+---Harvard CS50x: Introduction to Computer Science
+---Harvard CS50w: Web Programming with Python and JavaScript
 Effective C (2nd Edition), Robert C. Seacord
 https://www.learncpp.com/
 The C++ Programming Language, 4th Edition Bjarne Stroustrup
