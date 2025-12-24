@@ -38,6 +38,7 @@
 * **Course:** Full Stack Open (University of Helsinki)
 * **Book:** High Performance Browser Networking — Ilya Grigorik
 * **Tech Stack:** TypeScript, React, Next.js, Tailwind CSS
+* **Course:** MIT 6.824
 
 ### Phase 9: Distributed Systems & Architecture
 * **Book:** Designing Data-Intensive Applications — Martin Kleppmann
