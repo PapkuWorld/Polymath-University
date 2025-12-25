@@ -1,9 +1,16 @@
+# Religion and Spirituality
+* theistic evolutionist
+* spirituality
+* Satanic Left Path
+
+
 # Physical Fitness 
 * callanetics
 * Weightlifting
 * Toning Machines
 * Cardio
-* lazy man's workout 
+* lazy man's workout
+* OBstacle Course 
 
 
 # Sports 
@@ -14,6 +21,13 @@
 * Swimming
 * Boxing
 * MMA
+
+
+# Psychological 
+* Torture
+* Polygraph test
+* Drug test
+
 
 # Cooking
 * Rouxbe - Professional Cook Certification
@@ -130,7 +144,7 @@
 * CompTIA SecurityX
 * CISSP
 
-# Supplementary and Self Learning
+### Supplementary and Self Learning
 * YouTube Videos
 * Discussion Forums
 * Social Media Networks
