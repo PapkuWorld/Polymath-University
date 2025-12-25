@@ -105,6 +105,13 @@
 * **Goal:** Compile C++ functions to WASM to run in the browser.
 * **Resource:** "Emscripten" Documentation (C++ to WASM compiler).
 
+# AI Skills 
+* Artificial Intelligence Fundamentals 
+* Generative AI
+* Agentic AI
+* Prompt Engineering General
+* Use of AI in Information Technology & Cybersecurity Tasks and Automation   
+
 
 ### CERTIFICATIONS
 * CompTIA Secure Infrastructure Specialist
@@ -122,6 +129,12 @@
 * Red Team OPS 1 & 2
 * CompTIA SecurityX
 * CISSP
+
+# Supplementary and Self Learning
+* YouTube Videos
+* Discussion Forums
+* Social Media Networks
+* Various Websites
 
 ### PROFESSIONAL CERTIFICATES
 * TryHackMe Blue Team, Red Team, Security Engineer Path Complete
