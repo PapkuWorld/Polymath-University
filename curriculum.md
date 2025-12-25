@@ -2,12 +2,9 @@
 * callanetics
 * Weightlifting
 * Toning Machines
-* 
-*
-*
-*
-*
-*
+* Cardio
+* lazy man's workout 
+
 
 # Sports 
 * Airsoft Gun Play
@@ -28,8 +25,24 @@
 * George Brown College - Introduction to Butchery HOSF 9478
 * Butcher Craft - Course
 
-
+# Linguistics 
+* English
+* Spanish
+* Arabic
+* Japanese
+* Chinese
+* Hindi (Optional)
   
+# Creative Subjects 
+* Generative AI for Creativity
+* Graphic Design
+* Video Editing
+* Hentai 3D Art (Optional)
+* audio engineering
+* music production - various
+* instruments - piano
+* instruments - drums
+* Traditional Art - Oil Painting 
 
 # Mathematics
 * Khan Academy Math Track
