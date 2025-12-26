@@ -56,7 +56,10 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Toning Machines
 * Cardio
 * lazy man's workout
-* OBstacle Course 
+* Obstacle Course
+* Resistance 
+* Pain Tolerance 
+
 
 
 # Sports 
@@ -321,10 +324,10 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 ### SIMULATION TRAINING 
-*
-*
-*
-*
+* Fighter Jet 
+* Military 
+* Law Enforcement 
+* Space Science 
 
 ### GAMING 
 * Factorio 
