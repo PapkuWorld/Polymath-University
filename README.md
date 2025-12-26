@@ -120,6 +120,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 # Linguistics 
 * English
 * Spanish
+* Italian (Optional)
 * Arabic
 * Japanese
 * Chinese
