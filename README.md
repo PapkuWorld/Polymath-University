@@ -249,7 +249,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 
 ### MILITARY TRAINING & OPERATIONS  
-*
+* Asymmetric Warfare & Strategic Operations
 *
 *
 *
