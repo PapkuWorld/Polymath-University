@@ -183,6 +183,14 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Red Team OPS 1 & 2
 * CompTIA SecurityX
 * CISSP
+* SANS GIAC Allined (Full Audit Only)
+* GIAC Security Expert (Full Audit Only)
+* Advanced Exploit Development
+
+>> $600 USD per year certification maintenance cost if including GIAC. 
+
+
+
 
 ### Supplementary and Self Learning
 * YouTube Videos
