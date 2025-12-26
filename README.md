@@ -7,6 +7,15 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * spirituality
 * Satanic Left Path
 
+# Philosophy 
+*
+*
+*
+
+# Political Science 
+*
+*
+*
 
 # Physical Fitness 
 * callanetics
@@ -156,7 +165,10 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 ### CERTIFICATIONS
-* CompTIA Secure Infrastructure Specialist
+* CompTIA Tech+
+* CompTIA A+
+* CompTIA Network+
+* CompTIA Security+
 * CompTIA Linux+
 * Hackthebox Certified Bug Bounty Hunter (Legacy)
 * TryHackMe SAL1
@@ -189,6 +201,11 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Ransomware, Phishing, Malware Dev by Maldev Academy
 * Sector7 (All Courses)
 * GIAC Audit
+
+
+
+
+### BUSINESS 
 
 
 ### CRYPTOCURRENCY 
@@ -230,4 +247,8 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Operational Security 
 * Understanding Ecosystems 
 
-
+### HOW THINGS WORK
+*
+*
+*
+*
