@@ -214,7 +214,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 
 
 ### BUSINESS 
-*
+* Dual Master's in International Finance & Supply Chain Logistics
 *
 *
 *
@@ -249,7 +249,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 
 ### MILITARY TRAINING & OPERATIONS  
-* Asymmetric Warfare & Strategic Operations
+* Dual Asymmetric Warfare & Strategic Operations Bachelors Degree
 *
 *
 *
