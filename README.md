@@ -249,7 +249,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 
 ### Engineering
-* PhD in Aerospace Engineering
+* PhD in Systems Engineering
 
 
 
