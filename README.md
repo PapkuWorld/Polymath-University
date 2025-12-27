@@ -148,18 +148,29 @@ Finally, we are going to now fully get on with the guide and what you will be le
 *
 
 # Travel 
-* USA 
+* USA
+* Australia
+* Greece 
 * Japan 
-* Philipines 
+* Philipines
+* Hong Kong
 * Peru 
 * Russia 
 * Cambodia 
 * Dubai
-* Qatar 
-* Italy 
+* Qatar
+* Israel
+* India
+* Nigeria
+* Italy
+* Peru
 * Colombia
 * Mexico
-* Pakistan 
+* Guatemala
+* Panama
+* Cayman Island
+* Brazil
+* Pakistan
 * Bangladesh
 
 # Sexuality Management 
