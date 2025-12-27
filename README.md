@@ -150,7 +150,10 @@ Finally, we are going to now fully get on with the guide and what you will be le
 
 
 # Travel 
+* Canada 
 * USA
+* United Kingdom
+* New Zealand 
 * Australia
 * Greece 
 * Japan 
@@ -165,6 +168,7 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * India
 * Nigeria
 * Italy
+* Spain
 * Peru
 * Colombia
 * Mexico
