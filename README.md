@@ -40,12 +40,17 @@ I am going to teach my friends how to become the ultimate polymath. This program
 
 
 
-# Mental Health
-* Medication Management 
-* 
-*
-*
-*
+# Mental Health Fix
+* Take Medication as my doctor recommended  
+* Practice Meditation and Mindfulness 
+* Fitness fixes make me less depressed 
+* Stop worrying, nothing is going to happen 
+* Sleep whenever u feel like, hard to sleep due to nightmares 
+
+
+
+
+Finally, we are going to now fully get on with the guide and what you will be learning to become the ultimate polymath below:
 
 
 # Pick A Religion (example: Islam, Christianity) 
