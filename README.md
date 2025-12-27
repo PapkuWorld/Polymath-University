@@ -37,6 +37,10 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
+# Philosophy 
+*
+*
+*
 
 # Sexuality Management 
 * LGBT
@@ -74,10 +78,7 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 
 
-# Philosophy 
-*
-*
-*
+
 
 # Political Science 
 *
