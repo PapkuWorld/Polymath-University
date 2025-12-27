@@ -136,17 +136,18 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Swimming
 * Boxing
 * MMA
-* 
+
+
 # Psychological 
 * Torture
 * Polygraph test
 * Drug test
 
 # Law 
-*
-*
-*
-*
+* Private International Law Fundamentals + Customs (Audit)
+* Public International Law Fundamentals + Customs (Audit)
+* Criminal Law Fundamentals + Customs (Audit)
+
 
 # Travel 
 * USA
