@@ -42,26 +42,9 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 *
 *
 
-# Sexuality Management 
-* LGBT
-* Pansexual 
-* Medications
 
 
-# Travel 
-* USA 
-* Japan 
-* Philipines 
-* Peru 
-* Russia 
-* Cambodia 
-* Dubai
-* Qatar 
-* Italy 
-* Colombia
-* Mexico
-* Pakistan 
-* Bangladesh
+
 
 
 # Mental Health
@@ -108,12 +91,41 @@ To perform the tasks, if you are physically  or/and mentally disabled, there wil
 * Swimming
 * Boxing
 * MMA
-
-
+* 
 # Psychological 
 * Torture
 * Polygraph test
 * Drug test
+
+# Law 
+*
+*
+*
+*
+
+# Travel 
+* USA 
+* Japan 
+* Philipines 
+* Peru 
+* Russia 
+* Cambodia 
+* Dubai
+* Qatar 
+* Italy 
+* Colombia
+* Mexico
+* Pakistan 
+* Bangladesh
+
+# Sexuality Management 
+* LGBT
+* Pansexual 
+* Medications
+
+
+
+
 
 
 # Cooking
