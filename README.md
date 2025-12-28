@@ -54,15 +54,15 @@ I am going to teach my friends how to become the ultimate polymath. This program
 Finally, we are going to now fully get on with the guide and what you will be learning to become the ultimate polymath below:
 
 
-# Pick A Religion (example: Islam, Christianity) 
+# Pick A Religion (example: Christianity) 
 * Morality 
 * Prayer 
-* Sunni 
+* Catholic
 
 
 
 # Theistic Evolutionisonism 
-*
+* Abrahamic faiths
 *
 *
 *
