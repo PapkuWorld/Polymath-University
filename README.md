@@ -54,18 +54,18 @@ I am going to teach my friends how to become the ultimate polymath. This program
 Finally, we are going to now fully get on with the guide and what you will be learning to become the ultimate polymath below:
 
 
-# Pick A Religion (example: Christianity) 
-* Morality 
-* Prayer 
+# Learn about Religion (example: Christianity) 
+* Islam  
+* Hinduism  
 * Catholic
 
 
 
 # Theistic Evolutionisonism 
 * Abrahamic faiths
-*
-*
-*
+* Hinduism 
+
+
 
 
 # Spirituality Mapping
@@ -100,7 +100,7 @@ Finally, we are going to now fully get on with the guide and what you will be le
 
 
 # Brain Development 
-*
+* Gray Matter Increase Strategies 
 *
 *
 *
@@ -109,9 +109,9 @@ Finally, we are going to now fully get on with the guide and what you will be le
 
 
 # Political Science 
-*
-*
-*
+* Learn about communism
+* Learn about democracy 
+* Learn about political economy and institutions 
 
 # Physical Fitness 
 * callanetics
