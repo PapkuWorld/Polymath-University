@@ -225,13 +225,13 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Brilliant Math Track (Optional)
 
 # Chemistry 
-*
-*
-*
-*
+* Chemistry Fundamentals 
+* Biochemistry 
+* Chemist Bootcamp 
+* Chemistry for Pharmaceutical 
 
 # Biology 
-*
+* Human anatomy 
 *
 *
 *
@@ -399,10 +399,9 @@ To practice this phase, move away from standard environments:
 >> $600 USD per year certification maintenance cost if including GIAC. 
 
 ###  Telecommunications 
-*
-*
-*
-*
+* Telecommunication Fundamentals 
+* Telecommunication Network Design 
+
 
 
 
@@ -447,7 +446,7 @@ To practice this phase, move away from standard environments:
 
 
 ### CRYPTOCURRENCY 
-*
+* General Cryptocurrency Fundamentals 
 *
 *
 *
@@ -474,10 +473,10 @@ To practice this phase, move away from standard environments:
 
 
 ### LAW ENFORCEMENT TRAINING & OPERATIONS 
-*
-*
-*
-*
+* Counterintelligence 
+* SWAT 
+* Cyber police 
+* 
 
 ### Engineering
 # PhD in Systems Engineering
