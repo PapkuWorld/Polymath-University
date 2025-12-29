@@ -208,16 +208,61 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Chinese
 * Hindi (Optional)
   
-# Creative Subjects 
-* Generative AI for Creativity
-* Graphic Design
-* Video Editing
-* Hentai 3D Art (Optional)
-* audio engineering
-* music production - various
-* instruments - piano
-* instruments - drums
-* Traditional Art - Oil Painting 
+### Creative Subjects 
+
+# Generative AI for Creativity
+
+
+# Graphic Design and Digital Art 
+https://cubebrush.co/mb/products/0dpzeg/art-school             ART School for Digital Artists (by Marc Brunet)
+https://coloso.global/en
+
+
+
+# Hentai 3D Art (Optional)
+https://www.wingfox.com/
+Sakimichan Style 
+Japanese Hentai Artist Style 
+
+
+# Video Editing
+
+
+
+
+
+# audio engineering
+
+
+# music production - various
+
+
+
+# instruments - piano
+
+
+# instruments - drums
+
+
+# Traditional Art 
+* https://www.nma.art/     3D Character Art (4-Year Program)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Mathematics
 * Khan Academy Math Track
