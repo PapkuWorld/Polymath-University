@@ -37,6 +37,23 @@ I am going to teach my friends how to become the ultimate polymath. This program
 * 8 alters that I don't remember who they are 
 
 
+# My Support System
+* Shadow Organization
+* Intelligence Units 
+* Police Departments
+* Psychiatrist 
+* Criminal Lawyer 
+* General Lawyer
+* Immigration Lawyer 
+* Legal Guardian 
+* Case Manager
+* Social Worker 
+* Autism Support Worker 
+* Online Friends
+* My Family
+* Family 
+* Extended Family 
+
 
 
 
@@ -645,6 +662,9 @@ To practice this phase, move away from standard environments:
 * Simplex
 * Telegram
 * Session
+  
+  
+* Anti Forensics
 * 
 
 
