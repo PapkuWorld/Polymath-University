@@ -478,10 +478,9 @@ To practice this phase, move away from standard environments:
 
 
 ### BUSINESS 
-* Dual Master's in International Finance & Supply Chain Logistics
-*
-*
-*
+* Master of Business Administration - https://www.athabascau.ca/programs/summary/master-of-business-administration.html
+* Logistics Core 
+* Electives, Corporate Finance and Global Financial Management
 
 # Economics
 * Microeconomics
@@ -528,7 +527,7 @@ To practice this phase, move away from standard environments:
 * 
 
 ### Engineering
-# PhD in Systems Engineering
+# PhD in Systems Engineering 
 * Arial Offensive Weapons Systems 
 * Arial Defensive Weapons Systems 
 * Military UAV/Drones Development 
@@ -539,10 +538,12 @@ To practice this phase, move away from standard environments:
 
 
 ### MILITARY TRAINING & OPERATIONS  
-* Dual Asymmetric Warfare & Strategic Operations Bachelors Degree
-* Security Rings 
-*
-*
+* Asymmetric Warfare & Strategic Operations Cirriculum 
+* Security Rings
+* book: The Kill Chain: Defending America in the Future of High-Tech Warfare
+* book: Active Measures: The Secret History of Disinformation and Political Warfare
+* book: Military Tactics Guerrilla Warfare
+* 
 
 ### BIOLOGICAL WARFARE
 * 
