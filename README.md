@@ -574,7 +574,36 @@ To practice this phase, move away from standard environments:
 *
 
 
-## OPERATIONAL SECURITY 
+### DECENTRALIZATION
+* Handshake (HNS)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+
+
+
+
+
+### OPERATIONAL SECURITY 
 * Tails OS
 * Graphene OS 
 * Encryption - PGP, etc 
@@ -587,6 +616,18 @@ To practice this phase, move away from standard environments:
 * Session
 * 
 
+
+
+
+
+
+
+### I2P NETWORK
+*
+*
+*
+*
+*
 
 
 
@@ -718,6 +759,8 @@ To practice this phase, move away from standard environments:
 * health insurance
 * health budget
 * cryonics
+
+
 
 
 
