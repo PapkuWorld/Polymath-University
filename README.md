@@ -235,13 +235,17 @@ Japanese Hentai Artist Style
 
 
 # music production - various
+https://www.udemy.com/user/janthonyallen/
 
 
 
 # instruments - piano
+https://pianoin21days.com/
+https://pianomarvel.com/en/
 
 
 # instruments - drums
+https://www.drumeo.com/
 
 
 # Traditional Art 
