@@ -188,18 +188,35 @@ Finally, we are going to now fully get on with the guide and what you will be le
 *
 *
 
+# Fictional Good Characters Analysis (Independent Study & Research) 
+* Tony Stark 
+* Superman
+* Batman
+*
+*
+*
+
+
+
+# Fictional Bad Characters Analysis (Independent Study & Research) 
+* General Zod 
+* John Kramer
+*
+*
+*
+
 
 
 # Political Study and Figure Analysis (Independent Study & Journalism) 
 * Muammar Gaddafi
 * Vladimir Putin
 * Ali Khamenei
+* 
 *
 *
 *
 *
-*
-*
+* Adolf Hitler 
 
 
 
@@ -214,11 +231,13 @@ Finally, we are going to now fully get on with the guide and what you will be le
 * Semion Mogilevich
 * Dawood Ibrahim
 * Tse Chi Lop
-* 
-*
-*
-*
-*
+* Matthew David Graham
+* Steven W. Chase
+* Benjamin Faulkner
+* Shannon McCoole
+* Peter Skully
+* Pedro Alonso López
+* Luis Garavito
 *
 *
 *
